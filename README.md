@@ -5,7 +5,7 @@
     <img src="images/GLogo.png" width="35%" height="35%"/>
 </p>
 
-<h1> ***Credits to @PrithvirajDamoradan*** thanks for this </h1>
+<h1> Inspired by @PrithvirajDamoradan's model. A little bit altered</h1>
 
 # Gramformer
 
